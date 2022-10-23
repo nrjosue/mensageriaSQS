@@ -1,8 +1,8 @@
 cloud:
   aws:
     credentials:
-      access-key: AKIA2IC7DSYTCNRHAUFQ
-      secret-key: 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
+      access-key:
+      secret-key:
     region:
       static: us-east-1
       auto: false
